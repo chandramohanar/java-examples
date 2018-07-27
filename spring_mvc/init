@@ -1,0 +1,13 @@
+Spring MVC Hello World Example
+
+Introduction:
+
+Spring Framework provides comprehensive infrastructure support for developing Java applications. Spring handles the infrastructure so we can focus on the application.
+
+Spring Web MVC is the original web framework built on the Servlet API and included in the Spring Framework from the very beginning. The formal name "Spring Web MVC" comes from the name of its source module spring-webmvc but it is more commonly known as "Spring MVC". Spring MVC provides container and ready to use components that makes developing of Java applications simple and efficient.
+
+In order to build a sample Spring MVC application follow below steps:
+
+Donwload and install JDK 1.8
+Download and install/ extract Apache Tomcat v8.0.53
+Download and install/ extract Eclipse Oxygen 3a - Eclipse IDE for Java EE Developers
